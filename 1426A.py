@@ -38,4 +38,3 @@ for i in range(0,t):
          if x != 1: 
           print(round(n/x) + 1)
 
- 

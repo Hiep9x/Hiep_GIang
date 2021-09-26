@@ -1,15 +1,14 @@
 n = int(input())
 a = str(input())
 k = 1
-for i in range (1,n):
+for i in a:
+     
+    
     if i > 1:
-        j = a[i + k]
-        k = k + 1 
+            j =  a[i + k]
+            k = k + 1 
 
-    print(a[0],j,end ="")
-
-
-
-
+    print(i,end ="")
+# a = "dcmabcxyz"
 # for i in a: 
 #     print(a)

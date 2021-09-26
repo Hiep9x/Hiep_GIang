@@ -18,5 +18,5 @@ a = 1
 
 for i in range (0,t):
     x = int(input())
-    b = x 
+    b = x - 1
     print (a,b)
